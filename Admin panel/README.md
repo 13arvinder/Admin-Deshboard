@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Develop a React Admin Dashboard app with customizable themes, tables, charts, calendar, and Kanban board. Implement interactive features, seamless integration, and smooth user experience.
+  ![Screenshot (189)](https://github.com/13arvinder/Admin-Deshboard/assets/156815388/b578772a-91dc-4db9-bff2-2b12129248f1)
